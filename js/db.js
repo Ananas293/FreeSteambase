@@ -231,6 +231,18 @@ const games = [
 			{
 				login:'lyubomirkvach',
 				pass:'iyzN!2Jb8dc',
+			},
+			{
+				login:'1030649507',
+				pass:'70Games.net194',
+			},
+			{
+				login:'jsdtd214',
+				pass:'Guyunsq.com',
+			},
+			{
+				login:'wbtq1089849',
+				pass:'steamok1089849',
 			}
 		]
 		},{
@@ -266,6 +278,10 @@ const games = [
 			{
 				login:'gnvsu99343',
 				pass:'cozk01805T',
+			},
+			{
+				login:'hhyfs37434',
+				pass:'class123123.',
 			}
 		]
 		},{
@@ -717,6 +733,14 @@ const games = [
 			{
 				login:'Maksimqb',
 				pass:'Anpol2005.',
+			},
+			{
+				login:'steamok1090016',
+				pass:'steamok2548892245',
+			},
+			{
+				login:'75666635',
+				pass:'66344475',
 			}
 		]
 		},{
@@ -797,6 +821,10 @@ const games = [
 			{
 				login:'sauriora',
 				pass:'0V8AJyW1BpSw',
+			},
+			{
+				login:'fwjos12755',
+				pass:'zuobiao1745',	
 			}
 		]
 		},{
@@ -930,7 +958,7 @@ const games = [
 			}
 		]
 		},{
-		appid: 487720,
+		appid: 265930,
 		name: "Goat Simulator",
 		altName: "Гоат симулятор козла Goat Simulator",
 		users:[
@@ -939,5 +967,295 @@ const games = [
 				pass:'steamok615497',
 			}
 		]
+		},{
+		appid: 1147550,
+		name: "Not For Broadcast",
+		altName: "нот фор броадкаст Not For Broadcast",
+		users:[
+			{
+				login:'nyyhk652',
+				pass:'chengyukk456',
+			}
+		]
+		},{
+		appid: 1928870,
+		name: "Minecraft Legends",
+		altName: "Майнкрафт Легендс Minecraft Legends",
+		users:[
+			{
+				login:'11588973',
+				pass:'82834480',
+			}
+		]
+		},{
+		appid: 976310,
+		name: "Mortal Kombat 11",
+		altName: "Мортал комбат 11 Mortal Kombat 11",
+		users:[
+			{
+				login:'83013169',
+				pass:'32891340',
+			}
+		]
+		},{
+		appid: 1196590,
+		name: "Resident Evil Village",
+		altName: "ресидент евил виллаге Resident Evil Village",
+		users:[
+			{
+				login:'1030649507',
+				pass:'70Games.net194',
+			}
+		]
+		},{
+		appid: 500,
+		name: "Left 4 Dead",
+		altName: "Лефт 4 деад Left 4 Dead",
+		users:[
+			{
+				login:'1030649507',
+				pass:'70Games.net194',
+			}
+		]
+		},{
+		appid: 550,
+		name: "Left 4 Dead 2",
+		altName: "Лефт 4 деад 2 Left 4 Dead 2",
+		users:[
+			{
+				login:'1030649507',
+				pass:'70Games.net194',
+			}
+		]
+		},{
+		appid: 1238860,
+		name: "Battlefield 4™",
+		altName: "Баттлефилд 4 Battlefield 4™",
+		users:[
+			{
+				login:'pogogamer2021',
+				pass:'70Games.net155',
+			}
+		]
+		},{
+		appid: 431960,
+		name: "Wallpaper Engine",
+		altName: "Валлпапер енжине Wallpaper Engine",
+		users:[
+			{
+				login:'saber50a',
+				pass:'70Games.net202',
+			}
+		]
+		},{
+		appid: 1693980,
+		name: "Dead Space",
+		altName: "Деад Спейс Dead Space",
+		users:[
+			{
+				login:'kxnaxmfe',
+				pass:'WWw.520cu.com',
+			}
+		]
+		},{
+		appid: 47780,
+		name: "Dead Space™ 2",
+		altName: "Деад Спейс 2 Dead Space™ 2",
+		users:[
+			{
+				login:'kxnaxmfe',
+				pass:'WWw.520cu.com',
+			}
+		]
+		},{
+		appid: 1238810,
+		name: "Battlefield™ V",
+		altName: "Баттлефилд 5 Battlefield™ V",
+		users:[
+			{
+				login:'1030649507',
+				pass:'70Games.net194',
+			}
+		]
+		},{
+		appid: 108710,
+		name: "Alan Wake",
+		altName: "Алан ваке Alan Wake",
+		users:[
+			{
+				login:'steamok1090073',
+				pass:'steamok49955452',
+			}
+		]
+		},{
+		appid: 1659040,
+		name: "HITMAN World of Assassination",
+		altName: "Хитман ворлд оф ассасинатион HITMAN World of Assassination",
+		users:[
+			{
+				login:'wbtq1088781',
+				pass:'steamok333',
+			}
+		]
+		},{
+		appid: 739630,
+		name: "Phasmophobia",
+		altName: "Плазмафобия Phasmophobia",
+		users:[
+			{
+				login:'xalexaander',
+				pass:'Tamero12311',
+			}
+		]
+		},{
+		appid: 756800,
+		name: "Contraband Police",
+		altName: "Контрабанд Полиция Contraband Police",
+		users:[
+			{
+				login:'pyb07050',
+				pass:'jdj78761',
+			},
+			{
+				login:'qiejdq195',
+				pass:'zuobiao223134',
+			}
+		]
+		},{
+		appid: 1496790,
+		name: "Gotham Knights",
+		altName: "Готхам Кнайгхтс Gotham Knights",
+		users:[
+			{
+				login:'steamok3090498',
+				pass:'Mjc2MDQ5NTA=',
+			}
+		]
+		},{
+		appid: 15435,
+		name: "Wolfenstein Collection",
+		altName: "Волхенстеин коллектион Wolfenstein Collection",
+		users:[
+			{
+				login:'fwjos12755',
+				pass:'zuobiao1745',
+			}
+		]
+		},{
+		appid: 870780,
+		name: "Control Ultimate Edition",
+		altName: "Контрол ультимейт едитион Control Ultimate Edition",
+		users:[
+			{
+				login:'bejdw77460',
+				pass:'Bejdw12036',
+			}
+		]
+		},{
+		appid: 1850570,
+		name: "Death Stranding",
+		altName: "Деатх стрендинг Death Stranding",
+		users:[
+			{
+				login:'raisashepareva01',
+				pass:'408kR9TeN0JUVpSLLv8m',
+			}
+		]
+		},{
+		appid: 394510,
+		name: "HELLDIVERS™",
+		altName: "Хеллдиверс HELLDIVERS™",
+		users:[
+			{
+				login:'meigang1984',
+				pass:'JelSwRRdqy',
+			}
+		]
+		},{
+		appid: 1966720,
+		name: "Lethal Company",
+		altName: "Летхал компани Lethal Company",
+		users:[
+			{
+				login:'WC8978027',
+				pass:'JY11339111',
+			}
+		]
+		},{
+		appid: 997010,
+		name: "Police Simulator: Patrol Officers",
+		altName: "Симулятор полиции патрол оффицерс Police Simulator: Patrol Officers",
+		users:[
+			{
+				login:'yyyvv622',
+				pass:'tuqa0136QO',
+			}
+		]
+		},{
+		appid: 1351240,
+		name: "Taxi Life: A City Driving Simulator",
+		altName: "Такси лайф а сити драйвинг симулятор Taxi Life: A City Driving Simulator",
+		users:[
+			{
+				login:'00147071',
+				pass:'09085941',
+			}
+		]
+		},{
+		appid: 1480560,
+		name: "Lawn Mowing Simulator",
+		altName: "лавн мувинг симулятор Lawn Mowing Simulator",
+		users:[
+			{
+				login:'swzh22333',
+				pass:'zuobiao24621',
+			}
+		]
+		},{
+		appid: 976590,
+		name: "Bus Simulator 21 Next Stop",
+		altName: "Бус симулятор 21 некст стоп Bus Simulator 21 Next Stop",
+		users:[
+			{
+				login:'hbamo21871',
+				pass:'Da9472932',
+			}
+		]
+		},{
+		appid: 377160,
+		name: "Fallout 4",
+		altName: "фоллаут 4 Fallout 4",
+		users:[
+			{
+				login:'theoramsing1',
+				pass:'Jackhenry123456789',
+			}
+		]
+		},{
+		appid: 311210,
+		name: "Call of Duty: Black Ops III",
+		altName: "калл оф дюти блек опс 3 Call of Duty: Black Ops III",
+		users:[
+			{
+				login:'theoramsing1',
+				pass:'Jackhenry123456789',
+			}
+		]
+		},{
+		appid: 1778820,
+		name: "TEKKEN 8",
+		altName: "ТЕККЕН 8 TEKKEN 8",
+		users:[
+			{
+				login:'Oh1Cg0Aj0Fp9',
+				pass:'CHUANG518',
+			}
+		]
 	}
 ];
+
+
+
+
+
+
