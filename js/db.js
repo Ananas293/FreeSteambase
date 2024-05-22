@@ -459,6 +459,10 @@ const games = [
 			{
 				login:'cykabIyat_steam',
 				pass:'00gy0419!!',
+			},
+			{
+				login:'agt8729',
+				pass:'Apk66433',
 			}
 		]
 		},{
@@ -467,8 +471,12 @@ const games = [
 		altName: "Форза хорин 5 Forza Horizon 5",
 		users:[
 			{
-				login:'naughtycricket6555',
+				login:'jqxf50764',
 				pass:'70Games.net153',
+			},
+			{
+				login:'naughtycricket6555',
+				pass:'CHUANG666',
 			}
 		]	
 		},{
@@ -775,6 +783,10 @@ const games = [
 			{
 				login:'Maksimqb',
 				pass:'Anpol2005.',
+			},
+			{
+				login:'GhostForge344',
+				pass:'popo3434',
 			}
 		]
 		},{
@@ -1548,6 +1560,346 @@ const games = [
 			{
 				login:'ahfne78548',
 				pass:'H5rPeZszp',
+			}
+		]
+		},{
+		appid: 425220,
+		name: "ONE PIECE: Burning Blood",
+		altName: "оне пиесе ван пис 2 ONE PIECE: Burning Blood",
+		users:[
+			{
+				login:'waazn818',
+				pass:'mykn92694I',
+			}
+		]
+		},{
+		appid: 20920,
+		name: "The Witcher 2: Assassins of Kings Enhanced Edition",
+		altName: "ведьмак 2 The Witcher 2: Assassins of Kings Enhanced Edition",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
+		},{
+		appid: 1895880,
+		name: "Ratchet & Clank Future: A Crack in Time",
+		altName: "ратхет кланк футуре а крак ин тайм Сквозь миры Ratchet & Clank Future: A Crack in Time",
+		users:[
+			{
+				login:'7umych68',
+				pass:'zuobiao12845',
+			}
+		]
+		},{
+		appid: 617290,
+		name: "Remnant: From the Ashes",
+		altName: "ремнант фром зе асхеш Remnant: From the Ashes",
+		users:[
+			{
+				login:'stleb11056',
+				pass:'zuobiao1345',
+			}
+		]
+		},{
+		appid: 21690,
+		name: "Resident Evil 5",
+		altName: "резидент евил 5 Resident Evil 5",
+		users:[
+			{
+				login:'steamok1090011',
+				pass:'steamok264592240',
+			}
+		]
+		},{
+		appid: 2290180,
+		name: "Riders Republic",
+		altName: "райдерс републик Riders Republic",
+		users:[
+			{
+				login:'lntaqkkurldt',
+				pass:'zuobiao4581',
+			}
+		]
+		},{
+		appid: 393380,
+		name: "Squad",
+		altName: "Сквад Squad",
+		users:[
+			{
+				login:'unloh32368',
+				pass:'Dd.520ee.vip',
+			}
+		]
+		},{
+		appid: 346110,
+		name: "ARK: Survival Evolved",
+		altName: "Арк сурвайвл еволвед ARK: Survival Evolved",
+		users:[
+			{
+				login:'jiaoaohehe60520211',
+				pass:'Xiaohehe6021320',
+			}
+		]
+		},{
+		appid: 346110,
+		name: "Mount & Blade II: Bannerlord",
+		altName: "моунт бладе 2 баннерлорд Mount & Blade II: Bannerlord",
+		users:[
+			{
+				login:'KS27777',
+				pass:'LG930305WOGAN',
+			}
+		]
+		},{
+		appid: 35140,
+		name: "Batman: Arkham Asylum GOTY Edition",
+		altName: "Бетмен аркхам асулим готи едитион Batman: Arkham Asylum GOTY Edition",
+		users:[
+			{
+				login:'erhancerci',
+				pass:'erhan1001gunes',
+			}
+		]
+		},{
+		appid: 1238840,
+		name: "Battlefield 1 ™",
+		altName: "баттлефилд 1 Battlefield 1 ™",
+		users:[
+			{
+				login:'758690122',
+				pass:'nWfrXeSsXe',
+			}
+		]
+		},{
+		appid: 227300,
+		name: "Euro Truck Simulator 2",
+		altName: "Евро трак симулятор 2  Euro Truck Simulator 2",
+		users:[
+			{
+				login:'savielili1',
+				pass:'70Games.net047',
+			}
+		]
+		},{
+		appid: 1030840,
+		name: "Mafia: Definitive Edition",
+		altName: "Мафия дефинити едитион  Mafia: Definitive Edition",
+		users:[
+			{
+				login:'savielili1',
+				pass:'70Games.net047',
+			}
+		]
+		},{
+		appid: 863550,
+		name: "HITMAN™ 2",
+		altName: "Хитман 2 HITMAN™ 2",
+		users:[
+			{
+				login:'Technoman696969',
+				pass:'Meowmeow69',
+			}
+		]
+		},{
+		appid: 49520,
+		name: "Borderlands 2",
+		altName: "бордерландс 2 Borderlands 2",
+		users:[
+			{
+				login:'Technoman696969',
+				pass:'Meowmeow69',
+			}
+		]
+		},{
+		appid: 1149620,
+		name: "Gas Station Simulator",
+		altName: "гас статион симулятор заправки Gas Station Simulator",
+		users:[
+			{
+				login:'rkrat087',
+				pass:'cmu64699O',
+			}
+		]
+		},{
+		appid: 1888930,
+		name: "The Last of Us™ Part I",
+		altName: "зе тхе ласт оф ас парт 1 The Last of Us™ Part I",
+		users:[
+			{
+				login:'6684035552',
+				pass:'85350288',
+			}
+		]
+		},{
+		appid: 1119730,
+		name: "Ranch Simulator",
+		altName: "ранч симулятор Ranch Simulator",
+		users:[
+			{
+				login:'iiyi75393',
+				pass:'zuobiao2354',
+			}
+		]
+		},{
+		appid: 1962660,
+		name: "Call of Duty®: Modern Warfare® II",
+		altName: "калл ф дюти модерн варфаре 2 Call of Duty®: Modern Warfare® II",
+		users:[
+			{
+				login:'vcmd09',
+				pass:'mdpfan097',
+			}
+		]
+		},{
+		appid: 703080,
+		name: "Planet Zoo",
+		altName: "планет зоо Planet Zoo",
+		users:[
+			{
+				login:'wbtq1084068',
+				pass:'steamok123456',
+			}
+		]
+		},{
+		appid: 312660,
+		name: "Sniper Elite 4",
+		altName: "Снайпер елите 4 Sniper Elite 4",
+		users:[
+			{
+				login:'1435473409',
+				pass:'kNNTsykRwj',
+			}
+		]
+		},{
+		appid: 1659420,
+		name: "UNCHARTED™: Legacy of Thieves Collection",
+		altName: "анчартед легаси оф тхиевес коллектион UNCHARTED™: Legacy of Thieves Collection",
+		users:[
+			{
+				login:'liuge7788000tu',
+				pass:'https://wwW.520cu.com',
+			}
+		]
+		},{
+		appid: 1659420,
+		name: "The Outlast Trials",
+		altName: "тхе зе оутласт триалс The Outlast Trials",
+		users:[
+			{
+				login:'selpisonmovs1980',
+				pass:'steamaccountSISKI3388dh589345y56GBre874663Dgettuwe4',
+			}
+		]
+		},{
+		appid: 1151340,
+		name: "Fallout 76",
+		altName: "фоллаут 76 Fallout 76",
+		users:[
+			{
+				login:'bayken309',
+				pass:'upHI_qmH',
+			}
+		]
+		},{
+		appid: 1206560,
+		name: "WorldBox - God Simulator",
+		altName: "ворлд бокс год симулятор бога WorldBox - God Simulator",
+		users:[
+			{
+				login:'ujahh820',
+				pass:'msiu8579DP',
+			}
+		]
+		},{
+		appid: 22370,
+		name: "Fallout 3 - Game of the Year Edition",
+		altName: "фоллаут 3 гаме оф тхе зе еар едитион Fallout 3 - Game of the Year Edition",
+		users:[
+			{
+				login:'GhostForge344',
+				pass:'popo3434',
+			}
+		]
+		},{
+		appid: 387990,
+		name: "Scrap Mechanic",
+		altName: "Скрап механик Scrap Mechanic",
+		users:[
+			{
+				login:'GhostForge344',
+				pass:'popo3434',
+			}
+		]
+		},{
+		appid: 787860,
+		name: "Farming simulator 19",
+		altName: "Фарминг симулятор 19 Farming simulator 19",
+		users:[
+			{
+				login:'jcafaro85',
+				pass:'Farco2021',
+			}
+		]
+		},{
+		appid: 1248130,
+		name: "Farming simulator 22",
+		altName: "Фарминг симулятор 22 Farming simulator 22",
+		users:[
+			{
+				login:'jcafaro85',
+				pass:'Farco2021',
+			}
+		]
+		},{
+		appid: 221100,
+		name: "DayZ",
+		altName: "дейЗ дай DayZ",
+		users:[
+			{
+				login:'loveshaines1',
+				pass:'dkssud12A',
+			}
+		]
+		},{
+		appid: 107410,
+		name: "Arma 3",
+		altName: "Арма 3 Arma 3",
+		users:[
+			{
+				login:'loveshaines1',
+				pass:'dkssud12A',
+			}
+		]
+		},{
+		appid: 3590,
+		name: "Plants vs. Zombies GOTY Edition",
+		altName: "планета против зомби Plants vs. Zombies GOTY Edition",
+		users:[
+			{
+				login:'mazice_',
+				pass:'ZDUVDktvrR',
+			}
+		]
+		},{
+		appid: 1888160,
+		name: "ARMORED CORE™ VI FIRES OF RUBICON",
+		altName: "Арморед коре файрес оф рубикон ARMORED CORE™ VI FIRES OF RUBICON",
+		users:[
+			{
+				login:'xebqk71569',
+				pass:'jqnw64826T',
+			}
+		]
+		},{
+		appid: 3590,
+		name: "Forspoken",
+		altName: "форспокен Forspoken",
+		users:[
+			{
+				login:'82541247',
+				pass:'81428011',
 			}
 		]
 	}
