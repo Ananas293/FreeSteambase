@@ -1783,7 +1783,7 @@ const games = [
 			}
 		]
 		},{
-		appid: 1659420,
+		appid: 1304930,
 		name: "The Outlast Trials",
 		altName: "тхе зе оутласт триалс The Outlast Trials",
 		users:[
