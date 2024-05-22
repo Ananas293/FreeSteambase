@@ -302,6 +302,10 @@ const games = [
 			{
 				login:'Zhimote',
 				pass:'Ioqwjnc84',
+			},
+			{
+				login:'anbpn041',
+				pass:'wanyi195',
 			}
 		]
 		},{
@@ -553,6 +557,10 @@ const games = [
 			{
 				login:'zonovyqaf',
 				pass:'R8yMEQu4T4ky33V',
+			},
+			{
+				login:'firmanyukjozefina91',
+				pass:'vrcEeE4LEpN',
 			}
 		]
 		},{
@@ -1239,6 +1247,187 @@ const games = [
 			{
 				login:'Oh1Cg0Aj0Fp9',
 				pass:'CHUANG518',
+			}
+		]
+		},{
+		appid: 329050,
+		name: "Devil May Cry 4 Special Edition",
+		altName: "Девил май край 4 специал едитион Devil May Cry 4 Special Edition",
+		users:[
+			{
+				login:'jenyaelyutin86',
+				pass:'brR016IxtWaO8EpA',
+			}
+		]
+		},{
+		appid: 581320,
+		name: "Insurgency: Sandstorm",
+		altName: "Инсургенси сандсторм Insurgency: Sandstorm",
+		users:[
+			{
+				login:'liran271183',
+				pass:'agam1772008',
+			}
+		]
+		},{
+		appid: 601150,
+		name: "Devil May Cry 5",
+		altName: "Девил май край 5 Devil May Cry 5",
+		users:[
+			{
+				login:'jenyaelyutin86',
+				pass:'brR016IxtWaO8EpA',
+			}
+		]
+		},{
+		appid: 2144740,
+		name: "GhostRunner 2",
+		altName: "Гостраннер 2 GhostRunner 2",
+		users:[
+			{
+				login:'81337572',
+				pass:'98974415',
+			}
+		]
+		},{
+		appid: 2248760,
+		name: "Car For Sale Simulator 2023",
+		altName: "Кар фор сале симулятор 2023 Car For Sale Simulator 2023",
+		users:[
+			{
+				login:'Carforsalle',
+				pass:'Carforsa7$5',
+				info:'pin 2243',
+			}
+		]
+		},{
+		appid: 881020,
+		name: "Granblue Fantasy: Relink",
+		altName: "Гранблуе фентази релинк Granblue Fantasy: Relink",
+		users:[
+			{
+				login:'ijygq39364',
+				pass:'gvpo74995N',
+			}
+		]
+		},{
+		appid: 1895880,
+		name: "Rachet & Clank : Rift Apart",
+		altName: "ракхет кланк рифт апарт Rachet & Clank : Rift Apart",
+		users:[
+			{
+				login:'Ruiqi54689150',
+				pass:'huanxiang52121',
+			}
+		]
+		},{
+		appid: 1030830,
+		name: "Mafia II: Definitive Edition",
+		altName: "мафия 2 дефинитиве едитион Mafia II: Definitive Edition",
+		users:[
+			{
+				login:'toryanyk16',
+				pass:'samsung29',
+			}
+		]
+		},{
+		appid: 997070,
+		name: "Marvel s Avengers - The Definitive Edition",
+		altName: "Марвел с авенгерс - зе дефинитиве едитион Marvel s Avengers - The Definitive Edition",
+		users:[
+			{
+				login:'thb112341',
+				pass:'steamok456456',
+			}
+		]
+		},{
+		appid: 1687950,
+		name: "Persona 5",
+		altName: "персона 5 роял Persona 5 Royal",
+		users:[
+			{
+				login:'54658430',
+				pass:'93940289',
+			}
+		]
+		},{
+		appid: 752590,
+		name: "A Plague Tale: Innocence",
+		altName: "а плагуе тале инносенсе A Plague Tale: Innocence",
+		users:[
+			{
+				login:'heihun100',
+				pass:'2NkhBETL',
+			}
+		]
+		},{
+		appid: 601050,
+		name: "Attack on Titan 2 - A.O.T.2",
+		altName: "Аттак он титан 2 Attack on Titan 2 - A.O.T.2",
+		users:[
+			{
+				login:'dywtm634',
+				pass:'zcz675598Q',
+			}
+		]
+		},{
+		appid: 1493640,
+		name: "Banishers : Ghosts of New Eden",
+		altName: "банисшерс гост оф нев еден Banishers : Ghosts of New Eden",
+		users:[
+			{
+				login:'736309316',
+				pass:'GSL79556105',
+			}
+		]
+		},{
+		appid: 208650,
+		name: "Batman™: Arkham Knight",
+		altName: "Бетмен аркхам кнайгхт Batman™: Arkham Knight",
+		users:[
+			{
+				login:'steamok1089944',
+				pass:'steamok567769',
+			}
+		]
+		},{
+		appid: 202970,
+		name: "Call of Duty Black Ops II",
+		altName: "калл оф дюти блак опс 2 Call of Duty Black Ops II",
+		users:[
+			{
+				login:'buguitahd',
+				pass:'mamase123',
+			}
+		]
+		},{
+		appid: 1490890,
+		name: "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+		altName: "Демон слеер кометсу но яиба зе хиноками кхрониклес Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+		users:[
+			{
+				login:'qmuhu953',
+				pass:'hezj16665B',
+			}
+		]
+		},{
+		appid: 1665460,
+		name: "eFootball™ 2024",
+		altName: "е футболл 2024 eFootball™ 2024",
+		users:[
+			{
+				login:'allisa741',
+				pass:'Muza4412',
+			}
+		]
+		},{
+		appid: 1665460,
+		name: "Final Fantasy VII: Crisis Core",
+		altName: "финал фентази крисис коре Final Fantasy VII: Crisis Core",
+		users:[
+			{
+				login:'cnbgt37771',
+				pass:'zuobiao8777',
 			}
 		]
 	}
