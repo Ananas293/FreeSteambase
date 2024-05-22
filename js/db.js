@@ -1132,7 +1132,7 @@ const games = [
 			}
 		]
 		},{
-		appid: ,
+		appid: 201810,
 		name: "Wolfenstein Collection",
 		altName: "Волхенстеин коллектион Wolfenstein Collection",
 		users:[
