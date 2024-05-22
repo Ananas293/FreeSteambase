@@ -1421,7 +1421,7 @@ const games = [
 			}
 		]
 		},{
-		appid: 1665460,
+		appid: 1608070,
 		name: "Final Fantasy VII: Crisis Core",
 		altName: "финал фентази крисис коре Final Fantasy VII: Crisis Core",
 		users:[
