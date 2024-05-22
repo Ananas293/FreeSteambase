@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>SteamBase</title>
+	<link rel="apple-touch-icon" sizes="180x180" href="./img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="./img/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="./img/favicon-16x16.png">
+	<!--link rel="manifest" href="./site.webmanifest" -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link href="./main.css" rel="stylesheet">
+	<meta name="color-scheme" content="dark">
+
+</head>
+
+<body>
+	<div id="app">
+		<nav class="navbar navbar-expand-sm fixed-top mainNav " data-bs-theme="dark">
+			<div class="container" style="width:1140px;height:56px;">
+				<a @click="goToList" class="navbar-brand">
+					<h2>SteamBase</h2>
+				</a>
+				<button v-if="pageList" class="navbar-toggler" type="button" data-bs-toggle="collapse"
+					data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+					aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div v-if="pageList" class="collapse navbar-collapse" id="navbarNav">
+					<form class="d-flex" role="search" style="width:100%">
+						<input class="form-control me-2 border-0 bg-light-subtle" type="search" v-model="search" placeholder="Поиск..." >
+					</form>
+				</div>
+				<h2 @click="goToList" v-if="pageAppInfo" @mousemove="hint('Вернуться к поиску')" @mouseleave="hint()" class="collapse navbar-collapse text-primary" id="titleBack">
+					{{currentGame.name}}
+				</h2>
+			</div>
+		</nav>
+		<div v-if="pageList" class="container" id="list">
+			<div class="row posters">
+				<div class="grid">
+					
+					<a v-for="game in gameList" @click="goToAppInfo(game)" @mousemove="hint(game.name)" @mouseleave="hint()" class="grid-item poster">
+						<img :src="`https://cdn.cloudflare.steamstatic.com/steam/apps/` + game.appid + `/capsule_616x353.jpg`" onerror="this.src='./img/noposter.jpg'">
+					</a>
+
+					<h1 class="text-light text-center" v-if="search&&!gameList.length">Ничего&nbsp;не&nbsp;найдено</h1>
+					
+				</div>
+			</div>
+		</div>
+		<div v-if="pageAppInfo" class="jumbotron" id="appinfo" :style="`margin:72px auto 0;background:url('https://cdn.akamai.steamstatic.com/steam/apps/` + currentGame.appid + `/page_bg_generated_v6b.jpg') top center no-repeat;min-height:820px`">
+			<div class="container text-center" style="padding-top:50px;">
+				<img :src="`https://cdn.cloudflare.steamstatic.com/steam/apps/` + currentGame.appid + `/logo.png`" style="max-height:200px" onerror="this.remove()">
+				
+				<div v-if="currentGame.users" class="card-deck">
+					<div v-for="user in currentGame.users" class="align-top list-group card text-light mb-3 user">
+						<h5 class="card-header"><img src="./img/steam.svg" style="margin-right:15px">Steam-аккаунт</h5>
+						<table class="table table-bordered border-light table-dark">
+							<tbody>
+							  <tr :data-clipboard-text="user.login" @mousemove="hint('Нажмите, чтобы скопировать')" @mouseleave="hint()">
+								<td><img src="./img/login.svg"></td>
+								<td>{{user.login}}</td>
+							  </tr>
+							  <tr :data-clipboard-text="user.pass" @mousemove="hint('Нажмите, чтобы скопировать')" @mouseleave="hint()">
+								<td><img src="./img/pass.svg"></td>
+								<td>{{user.pass}}</td>
+							  </tr>
+							  <tr v-if="user.info" :data-clipboard-text="user.info" @mousemove="hint('Нажмите, чтобы скопировать')" @mouseleave="hint()">
+								<td colspan="2">{{user.info}}</td>
+							  </tr>
+							</tbody>
+						</table>
+					</div>
+				</div>
+
+
+			</div>
+		</div>
+
+		
+		<!-- <video class="card-img-top" autoplay muted loop playsinline src="https://cdn.cloudflare.steamstatic.com/steam/apps/256987683/microtrailer.webm"></video> -->
+		<div id="hint" :style="`display:` + (hintVisible ? 'block' : 'none')">{{ hintText }}</div>
+	</div>
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+	<script type="text/javascript" src="./js/masonry.min.js"></script>
+	<script type="text/javascript" src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+	<script type="text/javascript" src="./js/clipboard.min.js"></script>
+	<script type="text/javascript" src="./js/db.js"></script>
+	<script type="text/javascript" src="./js/main.js"></script>
+</body>
+
+</html>

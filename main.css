@@ -1,0 +1,144 @@
+body{
+    background: #1b2838;
+}
+
+.mainNav{
+    background:rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(6px);
+}
+.navbar-brand, #titleBack{
+    cursor:pointer;
+    margin-bottom:0;
+}
+.navbar-brand h2{
+    margin-bottom:0;
+}
+#titleBack{
+    margin-bottom: 0;
+    border-left: 1px solid #fff;
+    padding-left: 20px;
+}
+[type="search"]{
+    background: url(./img/search.svg) center left 10px no-repeat;
+    padding-left: 40px;
+}
+#hint{
+    display:none;
+    background:rgba(0, 68, 119, 0.6);
+    margin-left: 15px;
+    padding:10px 20px;
+    color:#fff;
+    margin-top:15px;
+    border:1px solid #fff;
+    position: absolute;
+    max-width: 280px;
+    z-index: 10000;
+    backdrop-filter: blur(3px);
+    -webkit-box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.5);
+}
+
+.posters{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:90px 0 50px;
+}
+
+.poster img{
+    width:250px;
+    -webkit-transition: all 0.3s ease;;
+    -moz-transition: all 0.3s ease;;
+    -o-transition: all 0.3s ease;;
+    transition: all 0.3s ease;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.5);
+    
+}
+.poster::after {
+    content: "";
+    opacity:0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 143px;
+    z-index:2;
+    -webkit-transition: all 0.3s ease;;
+    -moz-transition: all 0.3s ease;;
+    -o-transition: all 0.3s ease;;
+    transition: all 0.3s ease;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    background: -moz-linear-gradient(-45deg, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0) 100%); 
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(255,255,255,0.2)), color-stop(100%,rgba(255,255,255,0)));
+    background: -webkit-linear-gradient(-45deg, rgba(255,255,255,0.2) 0%,rgba(255,255,255,0) 100%);
+    background: -o-linear-gradient(-45deg, rgba(255,255,255,0.2) 0%,rgba(255,255,255,0) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(255,255,255,0.2) 0%,rgba(255,255,255,0) 100%); 
+    background: linear-gradient(135deg, rgba(255,255,255,0.2) 0%,rgba(255,255,255,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33ffffff', endColorstr='#00ffffff',GradientType=1 );
+}
+.poster:hover:after{
+    opacity:1;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    cursor:pointer;
+}
+.poster:hover img{
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-box-shadow: 0 0 100px 5px rgb(56 149 177 / 70%), 0 0 20px 0px rgba(0, 0, 0, 0.5);
+    box-shadow:0 0 100px 5px rgb(56 149 177 / 70%), 0 0 20px 0px rgba(0, 0, 0, 0.5);
+}
+.grid-item { 
+    width: 250px;
+    height: 143px;
+    margin: 0 auto 20px;
+}
+.user{
+    display:inline-block;
+    margin:10px;
+    border-radius: 15px;
+    -webkit-box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.4); 
+    backdrop-filter: blur(3px); 
+    -webkit-transition: all 0.3s ease;;
+    -moz-transition: all 0.3s ease;;
+    -o-transition: all 0.3s ease;;
+    transition: all 0.3s ease;
+    -webkit-transform: scale(0.95);
+    transform: scale(0.95);
+    border: none; 
+}
+.user:hover{
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    background-color: rgba(1, 11, 36, 0.4); 
+    -webkit-box-shadow: 0 0 100px 5px rgb(56 149 177 / 70%), 0 0 20px 0px rgba(0, 0, 0, 0.5);
+    box-shadow:0 0 100px 5px rgb(56 149 177 / 70%), 0 0 20px 0px rgba(0, 0, 0, 0.5);
+}
+.user .card-header{
+    border-radius: 15px 15px 0 0;
+    background: linear-gradient(to right, #3e63b6, #1a3371); 
+    padding:15px 25px;
+}
+.user .table{
+    margin: 18px;
+    display: block;
+}
+.user tr:hover > *{
+    --bs-table-bg-state:rgba(25, 80, 136, 0.3);
+    cursor:pointer;
+}
+.user tr:active > *{
+    --bs-table-bg-state:rgba(25, 80, 136, 0.6);
+}
+
+.user td{
+    background:transparent!important;
+    padding: 10px 25px;
+}
