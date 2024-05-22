@@ -829,5 +829,15 @@ const games = [
 				pass:'0V8AJyW1BpSw',
 			}
 		]
+		},{
+		appid: 218620,
+		name: "Pay Day 2",
+		altName: "Пей дей 2 Pay Day 2",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
 	}
 ];
