@@ -1531,7 +1531,7 @@ const games = [
 			}
 		]
 		},{
-		appid: 1277400,
+		appid: 1644960,
 		name: "NBA 2K22",
 		altName: "Нба 2к22 NBA 2K22",
 		users:[
@@ -1541,9 +1541,9 @@ const games = [
 			}
 		]
 		},{
-		appid: 1277400,
-		name: "Octopath Traveler 2",
-		altName: "окторпатх травелер 2 Octopath Traveler 2",
+		appid: 1971650,
+		name: "OCTOPATH TRAVELER II",
+		altName: "окторпатх травелер 2 OCTOPATH TRAVELER II",
 		users:[
 			{
 				login:'ahfne78548',
