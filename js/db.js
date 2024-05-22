@@ -839,5 +839,105 @@ const games = [
 				pass:'0V8AJyW1BpSw',
 			}
 		]
+		},{
+		appid: 356190,
+		name: "Middle Earth: Shadow of War",
+		altName: "Миддле еартх земля сшадов оф вар Middle Earth: Shadow of War",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
+		},{
+		appid: 234140,
+		name: "Mad Max",
+		altName: "Мад макс Mad Max",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
+		},{
+		appid: 8190,
+		name: "Just Cause 2",
+		altName: "Джут каусе 2 Just Cause 2",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
+		},{
+		appid: 225540,
+		name: "Just Cause™ 3",
+		altName: "Джут каусе 3 Just Cause™ 3",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
+		},{
+		appid: 899440,
+		name: "God Eater 3",
+		altName: "год еатер 3 God Eater 3",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
+		},{
+		appid: 337000,
+		name: "Deus Ex: Mankind Divided",
+		altName: "Деус екс: манкинд дивидед Deus Ex: Mankind Divided",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
+		},{
+		appid: 262060,
+		name: "Darkest Dungeon®",
+		altName: "Даркест Дангеон Darkest Dungeon®",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
+		},{
+		appid: 678960,
+		name: "Code Vein",
+		altName: "Коде веин Code Vein",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
+		},{
+		appid: 487720,
+		name: "Agony",
+		altName: "агону Agony",
+		users:[
+			{
+				login:'sauriora',
+				pass:'0V8AJyW1BpSw',
+			}
+		]
+		},{
+		appid: 487720,
+		name: "Goat Simulator",
+		altName: "Гоат симулятор козла Goat Simulator",
+		users:[
+			{
+				login:'xakbm328',
+				pass:'steamok615497',
+			}
+		]
 	}
 ];
