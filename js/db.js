@@ -1132,16 +1132,6 @@ const games = [
 			}
 		]
 		},{
-		appid: 201810,
-		name: "Wolfenstein Collection",
-		altName: "Волхенстеин коллектион Wolfenstein Collection",
-		users:[
-			{
-				login:'fwjos12755',
-				pass:'zuobiao1745',
-			}
-		]
-		},{
 		appid: 870780,
 		name: "Control Ultimate Edition",
 		altName: "Контрол ультимейт едитион Control Ultimate Edition",
