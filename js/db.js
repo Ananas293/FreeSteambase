@@ -253,6 +253,10 @@ const games = [
 			{
 				login:'urng10607',
 				pass:'zuobiao7282',
+			},
+			{
+				login:'huanxiang9788',
+				pass:'zhizhu8847',
 			}
 		]
 		},{
@@ -397,6 +401,10 @@ const games = [
 			{
 				login:'21968762',
 				pass:'zhengxiang654',
+			},
+			{
+				login:'svmmw6271',
+				pass:'jjw2n5fy',
 			}
 		]	
 		},{
@@ -407,6 +415,10 @@ const games = [
 			{
 				login:'mcqw42573',
 				pass:'muR994uao',
+			},
+			{
+				login:'steamok1089913',
+				pass:'steamok765',
 			}
 		]	
 		},{
@@ -517,6 +529,10 @@ const games = [
 			{
 				login:'hoov27420',
 				pass:'7l14u64p',
+			},
+			{
+				login:'wbtq1084058',
+				pass:'steamok456654',
 			}
 		]
 		},{
@@ -893,6 +909,10 @@ const games = [
 			{
 				login:'sauriora',
 				pass:'0V8AJyW1BpSw',
+			},
+			{
+				login:'steamok333',
+				pass:'wbtq1088851',
 			}
 		]
 		},{
@@ -1428,6 +1448,106 @@ const games = [
 			{
 				login:'cnbgt37771',
 				pass:'zuobiao8777',
+			}
+		]
+		},{
+		appid: 637650,
+		name: "FINAL FANTASY XV",
+		altName: "финал фентази FINAL FANTASY XV",
+		users:[
+			{
+				login:'kuxuan110',
+				pass:'LG930305',
+			}
+		]
+		},{
+		appid: 1182900,
+		name: "A Plague Tale: Requiem",
+		altName: "а плагуе тале рекьюем A Plague Tale: Requiem",
+		users:[
+			{
+				login:'18584435',
+				pass:'90231768',
+			}
+		]
+		},{
+		appid: 242700,
+		name: "Injustice: Gods Among Us Ultimate Edition",
+		altName: "инджустисе годс амонг ас ультимейт едитион Injustice: Gods Among Us Ultimate Edition",
+		users:[
+			{
+				login:'zhenrensao110',
+				pass:'LG930305',
+			}
+		]
+		},{
+		appid: 1372110,
+		name: "JoJo's Bizarre Adventure: All-Star Battle R",
+		altName: "джо джо близарре адвентуре алл стар баттле Р JoJo's Bizarre Adventure: All-Star Battle R",
+		users:[
+			{
+				login:'steamok1090252',
+				pass:'steamok45678919',
+			}
+		]
+		},{
+		appid: 860510,
+		name: "Little Nightmares II",
+		altName: "литтле найгхтмарес 2 Little Nightmares II",
+		users:[
+			{
+				login:'yhvxh727',
+				pass:'steamok168',
+			}
+		]
+		},{
+		appid: 1088850,
+		name: "Marvel's Guardians of the Galaxy",
+		altName: "Марвелс гуардианс оф зе гелакси  Marvel's Guardians of the Galaxy",
+		users:[
+			{
+				login:'liugezh10',
+				pass:'SNSD0O,.123456',
+			}
+		]
+		},{
+		appid: 1446780,
+		name: "MONSTER HUNTER RISE",
+		altName: "монстер хантер райсе MONSTER HUNTER RISE",
+		users:[
+			{
+				login:'wbtq1084082',
+				pass:'steamok456',
+			}
+		]
+		},{
+		appid: 1277400,
+		name: "Monster Hunter Stories 2: Wings of Ruin",
+		altName: "монстер хантер сториес 2 вингс оф раин Monster Hunter Stories 2: Wings of Ruin",
+		users:[
+			{
+				login:'meigang1984',
+				pass:'JelSwRRdqy',
+			}
+		]
+		},{
+		appid: 1277400,
+		name: "NBA 2K22",
+		altName: "Нба 2к22 NBA 2K22",
+		users:[
+			{
+				login:'stleb11056',
+				pass:'zuobiao1345',
+			}
+		]
+		},{
+		appid: 1277400,
+		name: "Octopath Traveler 2",
+		altName: "окторпатх травелер 2 Octopath Traveler 2",
+		users:[
+			{
+				login:'ahfne78548',
+				pass:'H5rPeZszp',
 			}
 		]
 	}
