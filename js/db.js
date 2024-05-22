@@ -1893,7 +1893,7 @@ const games = [
 			}
 		]
 		},{
-		appid: 3590,
+		appid: 1680880,
 		name: "Forspoken",
 		altName: "форспокен Forspoken",
 		users:[
