@@ -1,4 +1,4 @@
-const games = [
+аconst games = [
     {
 		appid: 1145350,
 		name: "Hades II",
@@ -1132,7 +1132,7 @@ const games = [
 			}
 		]
 		},{
-		appid: 350080,
+		appid: 201810,
 		name: "Wolfenstein Collection",
 		altName: "Волхенстеин коллектион Wolfenstein Collection",
 		users:[
