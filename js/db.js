@@ -1631,7 +1631,7 @@ const games = [
 			}
 		]
 		},{
-		appid: 346110,
+		appid: 261550,
 		name: "Mount & Blade II: Bannerlord",
 		altName: "моунт бладе 2 баннерлорд Mount & Blade II: Bannerlord",
 		users:[
