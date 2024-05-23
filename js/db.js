@@ -171,6 +171,10 @@ const games = [
 			{
 				login:'soothingencoura',
 				pass:'RomchikRFPSELL_231343',
+			},
+			{
+				login:'martin6262',
+				pass:'SuperMan6262',
 			}
 		]	
 		},{
@@ -384,16 +388,6 @@ const games = [
 			}
 		]
 		},{
-		appid: 516750,
-		name: "My summer car",
-		altName: "май саммер кар My summer car",
-		users:[
-			{
-				login:'martin6262',
-				pass:'SuperMan6262',
-			}
-		]
-		},{
 		appid: 1151640,
 		name: "Horizon Zero Dawn™ Complete Edition",
 		altName: "Хоризонт зеро давн Horizon Zero Dawn™ Complete Edition",
@@ -561,6 +555,10 @@ const games = [
 			{
 				login:'sonofplumber',
 				pass:'rXGMQyhe',
+			},
+			{
+				login:'jenyaelyutin86',
+				pass:'brR016IxtWaO8EpA',
 			}
 		]	
 		},{
@@ -1299,16 +1297,6 @@ const games = [
 			{
 				login:'liran271183',
 				pass:'agam1772008',
-			}
-		]
-		},{
-		appid: 601150,
-		name: "Devil May Cry 5",
-		altName: "Девил май край 5 Devil May Cry 5",
-		users:[
-			{
-				login:'jenyaelyutin86',
-				pass:'brR016IxtWaO8EpA',
 			}
 		]
 		},{
